@@ -1,0 +1,282 @@
+F:\PKT\QLPKT\QLPKT\bin\Debug\QLPKT.exe
+F:\PKT\QLPKT\QLPKT\bin\Debug\QLPKT.pdb
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Properties.Resources.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.exe
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.pdb
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Login.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Manager.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Myinfo.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Changepass.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Home.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Permission.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_Home.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_View.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_Add.resources
+F:\PKT\QLPKT\QLPKT\bin\Debug\QLPKT.exe.config
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Product_Home.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Home.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistics_Home.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_View.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Add.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Factory_View.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Factory_Add.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_Add.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_Moredetails.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_View.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Growth_Rate.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistic_Growth.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_sale_add.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_sale_view.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_buy_add.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_buy_view.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistics_math.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.VA_products.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.VA_brand.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Feedback.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Buy.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Sale.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Sellwell.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Innage.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_MP.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Confirm.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Connection.resources
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_Home.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\bin\Debug\QLPKT.exe.config
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.exe
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.pdb
+E:\Phong\pro\PKT\QLPKT\QLPKT\bin\Debug\QLPKT.exe
+E:\Phong\pro\PKT\QLPKT\QLPKT\bin\Debug\QLPKT.pdb
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Confirm.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Connection.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Feedback.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_MP.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_Home.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Buy.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Innage.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Sale.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Sellwell.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.VA_brand.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Changepass.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Add.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Home.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_View.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_Add.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_Home.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_View.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Factory_Add.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Factory_View.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Growth_Rate.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Home.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_buy_add.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_buy_view.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_sale_add.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_sale_view.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Manager.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Login.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_Add.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_Moredetails.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_View.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Myinfo.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Permission.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Product_Home.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Properties.Resources.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistics_Home.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistics_Math.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistic_Growth.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\QLPKT.VA_products.resources
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Phong\pro\PKT\QLPKT\QLPKT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\bin\Debug\QLPKT.exe.config
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.exe
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.pdb
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\bin\Debug\QLPKT.exe
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\bin\Debug\QLPKT.pdb
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Confirm.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Connection.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Feedback.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_MP.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_Home.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Buy.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Innage.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Sale.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Sellwell.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.VA_brand.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Changepass.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Add.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Home.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_View.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_Add.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_Home.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_View.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Factory_Add.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Factory_View.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Growth_Rate.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Home.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_buy_add.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_buy_view.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_sale_add.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_sale_view.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Manager.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Login.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_Add.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_Moredetails.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_View.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Myinfo.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Permission.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Product_Home.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Properties.Resources.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistics_Home.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistics_Math.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistic_Growth.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\QLPKT.VA_products.resources
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bi.Tet\Desktop\QLPKT\QLPKT\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PKT\QLPKT\QLPKT\obj\x86\Debug\GenerateResource.write.885.tlog
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\bin\Debug\QLPKT.exe.config
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.exe
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.pdb
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\bin\Debug\QLPKT.exe
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\bin\Debug\QLPKT.pdb
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Confirm.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Connection.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Feedback.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_MP.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_Home.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Buy.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Innage.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Sale.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Sellwell.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.VA_brand.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Changepass.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Add.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Home.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_View.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_Add.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_Home.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_View.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Factory_Add.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Factory_View.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Growth_Rate.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Home.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_buy_add.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_buy_view.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_sale_add.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_sale_view.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Manager.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Login.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_Add.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_Moredetails.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_View.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Myinfo.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Permission.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Product_Home.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Properties.Resources.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistics_Home.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistics_Math.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistic_Growth.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\QLPKT.VA_products.resources
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\5103VIP\Project\PKT Final\QLPKT\QLPKT\obj\x86\Debug\GenerateResource.write.885.tlog
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\PKTTeam Project\QLPKT\QLPKT\bin\Debug\QLPKT.exe.config
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\PKTTeam Project\QLPKT\QLPKT\obj\x86\Debug\QLPKT.exe
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\PKTTeam Project\QLPKT\QLPKT\obj\x86\Debug\QLPKT.pdb
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\bin\Debug\QLPKT.exe.config
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.exe
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.pdb
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\bin\Debug\QLPKT.exe
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\bin\Debug\QLPKT.pdb
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Confirm.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Connection.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Feedback.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_MP.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_Home.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Buy.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Innage.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Sale.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Sellwell.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.VA_brand.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Changepass.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Add.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Home.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_View.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_Add.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_Home.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_View.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Factory_Add.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Factory_View.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Growth_Rate.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Home.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_buy_add.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_buy_view.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_sale_add.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Invoice_sale_view.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Manager.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Login.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_Add.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_Moredetails.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_View.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Myinfo.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Permission.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Product_Home.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Properties.Resources.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistics_Home.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistics_Math.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistic_Growth.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\QLPKT.VA_products.resources
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\Manager.csproj.GenerateResource.Cache
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\bin\Debug\Changepass.resx
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\bin\Debug\Changepass.cs
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\bin\Debug\Changepass.Designer.cs
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\QLPKT\QLPKT\obj\x86\Debug\Manager.csprojResolveAssemblyReference.cache
+D:\4\QLPKT\QLPKT\bin\Debug\QLPKT.exe.config
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.exe
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.pdb
+D:\4\QLPKT\QLPKT\bin\Debug\Changepass.resx
+D:\4\QLPKT\QLPKT\bin\Debug\Employee_View.resx
+D:\4\QLPKT\QLPKT\bin\Debug\Changepass.cs
+D:\4\QLPKT\QLPKT\bin\Debug\Changepass.Designer.cs
+D:\4\QLPKT\QLPKT\bin\Debug\Employee_View.cs
+D:\4\QLPKT\QLPKT\bin\Debug\Employee_View.Designer.cs
+D:\4\QLPKT\QLPKT\bin\Debug\QLPKT.exe
+D:\4\QLPKT\QLPKT\bin\Debug\QLPKT.pdb
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Confirm.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Connection.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Feedback.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_MP.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Buy.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Innage.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Sale.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.SA_Sellwell.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.VA_brand.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Changepass.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Add.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_Home.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Customer_View.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_Add.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_Home.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Employee_View.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Factory_Add.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Factory_View.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Home.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Manager.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Login.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_Add.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_Moredetails.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Products_View.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Myinfo.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Permission.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Product_Home.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Properties.Resources.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.VA_products.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\Manager.csproj.GenerateResource.Cache
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistics_Home.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistics_Math.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Statistic_Growth.resources
+D:\4\QLPKT\QLPKT\obj\x86\Debug\QLPKT.Growth_Rate.resources
